@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("AppDevMonitor")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("ConocoPhillips")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("AppDevMonitor")]
-[assembly: AssemblyCopyright("Copyright © ConocoPhillips 2013")]
+[assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
