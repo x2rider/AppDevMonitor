@@ -18,7 +18,6 @@ namespace CheckAppleStatus
     {
 
         static Timer timer;
-        private const string STATUS_FILE = @"c:\temp\AppleStatusClass.txt";
         static HttpClient client = new HttpClient();
         private static Regex rxAppleJson = new Regex(
               "jsonCallback\\((?<jsondata>[^\\)]*)\\)\\;",
