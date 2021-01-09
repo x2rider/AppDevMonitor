@@ -233,7 +233,7 @@ namespace CheckAppleStatus
         private static string FetchAppleData()
         {
             string sURL;
-            sURL = "https://developer.apple.com/support/system-status/";
+            sURL = "https://www.apple.com/support/systemstatus/";
 
             var response = new StringBuilder();
 
