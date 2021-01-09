@@ -10,6 +10,10 @@ using System.Linq;
 
 namespace CheckAppleStatus
 {
+    /// <summary>
+    /// Apple system status monitor
+    /// Written by Paul Reedy
+    /// </summary>
     class Program
     {
 
